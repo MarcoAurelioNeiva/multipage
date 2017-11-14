@@ -14,4 +14,4 @@ Subpastas de "img": users, banners, portfolio;
 
 • Criar um reset.css
 
-**Marco Aurélio Neiva**
+*Atribuido a: ***Marco Aurélio Neiva**
